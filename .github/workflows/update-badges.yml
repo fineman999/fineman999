@@ -13,5 +13,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.TOKEN }}
-          CREDLY_USER: PARK CHANHEUM
+          CREDLY_USER: park-chanheum
         
