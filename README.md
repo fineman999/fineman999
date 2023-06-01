@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&desc=Chan's%20Github%20Profile&descAlignY=70&descAlign=70&fontSize=90)
 ![fineman999's GitHub stats](https://github-readme-stats.vercel.app/api?username=fineman999&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fineman999)](https://solved.ac/fineman999/)
 <!--START_SECTION:badges-->
