@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=000000" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
 </p>
 
 <h4 align="center">🐅 Front Tech Stack 🐅</h4>
@@ -45,13 +47,12 @@
 <img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea"/>
 </p>
 
-
 ---
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/fineman999">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord"/>
+ <a href="https://github.com/fineman999">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fineman999&layout=compact&show_icons=true&show_owner=false&hide_title=true&theme=nord"/>
   </a>
 </p>
 <h3 align="center"> 💡 My Git Stats💡</h3>
