@@ -6,26 +6,26 @@
 ---
 <h4 align="center" > I am junior back-end developer who love development </h4>
 
-<h4 align="center">❗Contact Me! ❗</h4>
+<h4 align="center">❗ Contact Me! ❗</h4>
 <p align="center">
 <a href="https://ppaekkomlog.tistory.com/2"><img src="https://img.shields.io/badge/Blog-F06B66?style=flat-square&logo=bloglovin&logoColor=white&link=https://ppaekkomlog.tistory.com/2"/></a>  
 <a href="mailto:33cks1423@naver.com"><img src="https://img.shields.io/badge/Email-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:333cks1423@naver.com"/></a>
 <p>
 
-<h4 align="center">💡Back Tech Stack 💡</h4>
+<h4 align="center">💡 Back Tech Stack 💡</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Spring Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff"/> 
 </p>
-<h4 align="center">🐷DataBase Tech Stack 🐷</h4>
+<h4 align="center">🐷 DataBase Tech Stack 🐷</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff" />
  <img src="https://img.shields.io/badge/Redis-DC282D?style=flat-square&logo=Redis&logoColor=ffffff" /> 
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=ffffff" />
  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=ffffff" /> 
-<h4 align="center">🐯 EctTech Stack 🐅</h4>
+<h4 align="center">🐯 Ect Tech Stack 🐯</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -49,6 +49,13 @@
 
 ---
 
+<h3 align="center"> 💡 My BackJoon Tier💡</h3>
+<p align="center">
+  <a href="https://github.com/fineman999">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fineman999" />
+  </a>
+</p>
+
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
  <a href="https://github.com/fineman999">
@@ -60,13 +67,6 @@
 <p align="center">
   <a href="https://github.com/fineman999">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=fineman999&show_icons=true&theme=radical&hide_title=true" />
-  </a>
-</p>
-
-<h3 align="center"> 💡 My BackJoon Tier💡</h3>
-<p align="center">
-  <a href="https://github.com/fineman999">
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=fineman999" />
   </a>
 </p>
 
