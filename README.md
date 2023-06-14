@@ -72,6 +72,7 @@
 </p>
 
 ---
+<h3 align="center"> 💡 My AWS Certification 💡</h3>
 
 <!--START_SECTION:badges-->
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/4f9ef0af-26da-4e6c-9a4e-b4104fd1a559 "AWS Certified Developer – Associate")
