@@ -30,7 +30,6 @@
  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=000000" /> 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
 </p>
 
 <h4 align="center">🐅 Front Tech Stack 🐅</h4>
