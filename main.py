@@ -15,7 +15,6 @@ markdown_text = """
 
 <h4 align="center">❗ Contact Me! ❗</h4>
 <p align="center">
-<a href="https://ppaekkomlog.tistory.com/2"><img src="https://img.shields.io/badge/Blog-F06B66?style=flat-square&logo=bloglovin&logoColor=white&link=https://ppaekkomlog.tistory.com/2"/></a>  
 <a href="mailto:33cks1423@naver.com"><img src="https://img.shields.io/badge/Email-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:333cks1423@naver.com"/></a>
 <p>
 
