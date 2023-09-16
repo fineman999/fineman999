@@ -32,19 +32,6 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
-<h4 align="center">🐅 Front Tech Stack 🐅</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-</p>
-<h4 align="center">🐗 Collaboration &  IDE Tools 🐗</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira Software" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion" /> <img src="https://img.shields.io/badge/Miro-yellow?style=flat-square&logo=Miro&logoColor=000000" /> <img src="https://img.shields.io/badge/ Google Sheets-34A853?style=flat-square&logo=Google Sheets&logoColor=ffffff" /> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellijidea"/>
-</p>
-
 ---
 
 <h3 align="center"> 💡 My BackJoon Tier💡</h3>
