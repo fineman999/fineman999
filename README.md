@@ -65,9 +65,9 @@
 
 ## ✅ Latest Blog Post
 
+[2023/10/29 - 채팅 애플리케이션 (2) - STOMP](https://ppaekkomlog.tistory.com/23) <br/>
 [2023/10/05 - Websocket? Socket? HTTP?](https://ppaekkomlog.tistory.com/22) <br/>
 [2023/09/28 - 쉽고 간단한 백엔드 인프라, 배포부터 보안까지 (5) - Amazon Route 53 + AWS Certificate Manager(ACM) + 가비아](https://ppaekkomlog.tistory.com/21) <br/>
 [2023/09/17 - 쉽고 간단한 백엔드 인프라, 배포부터 보안까지 (4) - Github Actions(CI/CD)](https://ppaekkomlog.tistory.com/20) <br/>
 [2023/09/17 - 쉽고 간단한 백엔드 인프라, 배포부터 보안까지 (3) - Amazon RDS](https://ppaekkomlog.tistory.com/19) <br/>
 [2023/09/16 - 쉽고 간단한 백엔드 인프라, 배포부터 보안까지 (2) - AWS Elastic Beanstalk](https://ppaekkomlog.tistory.com/18) <br/>
-[2023/09/16 - 쉽고 간단한 백엔드 인프라, 배포부터 보안까지 (1) - AWS Elastic Beanstalk + Amazon Route 53 + ACM + 가비아 + GitHub Actions(CI/CD) + Amazon RDS(MySQL) 설명](https://ppaekkomlog.tistory.com/17) <br/>
