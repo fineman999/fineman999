@@ -11,13 +11,7 @@
 <p align="center">
 <a href="mailto:33cks1423@naver.com"><img src="https://img.shields.io/badge/Email-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:333cks1423@naver.com"/></a>
 <p>
-
-<h4 align="center">💡 Back Tech Stack 💡</h4>
-<p align="center">
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-
+ 
 ---
 
 <h3 align="center"> 💡 My BackJoon Tier💡</h3>
